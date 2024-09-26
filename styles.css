@@ -1,0 +1,26 @@
+/* 全体の設定 */
+body {
+    background-image: url('./image/background.png');
+    background-size: cover;
+    text-align: center;
+    padding: 16px;
+}
+
+/* タイトル */
+h1 {
+    margin-bottom: 16px;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 14px;
+    color: gray;
+}
+
+/* プロフィール画像 */
+img {
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 20%;
+    margin-bottom: 16px;
+}
